@@ -19,7 +19,7 @@ const BlogData = [
   },
   {
     id: 3,
-    date: "January 21, 2019",
+    date: "January 21, 2022",
     catgeory: "Developement",
     title: "INNOVATIVE LUXURY HOTEL DESIGN IDEAS & CONCEPTS",
     cover: "/images/singlepage/blog-3.jpg",
@@ -28,7 +28,7 @@ const BlogData = [
   },
   {
     id: 4,
-    date: "January 30, 2019",
+    date: "January 30, 2022",
     catgeory: " Motion Designer",
     title: "Wellness Initiatives and Luxurious Bathrooms",
     cover: "/images/singlepage/blog-4.jpg",
